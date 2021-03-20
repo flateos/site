@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="200" alt="site logo" src="brand.svg"/>
+  <img alt="site logo" src="brand.svg"/>
 </div>
 
 <h3 align="center"> Official FlateOS website. </h3>
